@@ -1,0 +1,19 @@
+The TensorFlow tutorials are written as Jupyter notebooks and run directly in Google Colab—a hosted notebook environment that requires no setup. At the top of each tutorial, you'll see a Run in Google Colab button. Click the button to open the notebook and run the code yourself.
+
+For beginners
+The best place to start is with the user-friendly Keras sequential API. Build models by plugging together building blocks. After these tutorials, read the Keras guide.
+Beginner quickstart
+This "Hello, World!" notebook shows the Keras Sequential API and model.fit.
+Keras basics
+This notebook collection demonstrates basic machine learning tasks using Keras.
+Load data
+These tutorials use tf.data to load various data formats and build input pipelines.
+For experts
+The Keras functional and subclassing APIs provide a define-by-run interface for customization and advanced research. Build your model, then write the forward and backward pass. Create custom layers, activations, and training loops.
+Advanced quickstart
+This "Hello, World!" notebook uses the Keras subclassing API and a custom training loop.
+Customization
+This notebook collection shows how to build custom layers and training loops in TensorFlow.
+Distributed training
+Distribute your model training across multiple GPUs, multiple machines or TPUs.
+The Advanced section has many instructive notebooks examples, including Neural machine translation, Transformers, and CycleGAN.
